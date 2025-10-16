@@ -25,3 +25,8 @@
   <script src="script.js"></script>
 </body>
 </html>
+
+
+
+[script.js](https://github.com/user-attachments/files/22940781/script.js)
+[style.css](https://github.com/user-attachments/files/22940782/style.css)
